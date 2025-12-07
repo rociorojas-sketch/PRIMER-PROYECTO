@@ -1,0 +1,2 @@
+echo Nombre: Juan Pérez > datos.txt
+echo Programa: Análisis y Desarrollo de Software >> datos.txt
